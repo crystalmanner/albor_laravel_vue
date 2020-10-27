@@ -1,0 +1,316 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Admin Edit User Page Mount hides company and teams 1`] = `
+<div
+  class="container fill-height"
+>
+  <div
+    class="layout align-start row wrap"
+  >
+    <div
+      class="flex xs12 sm12 md4 lg3 xl3 mb-4"
+    >
+      <div
+        class="fresh-profile-card v-card v-sheet theme--light"
+      >
+        <div
+          class="layout align-start row wrap"
+        >
+          <div
+            class="flex xs12"
+          >
+            <div
+              class="layout xs12 sm12 md12 lg12 row px-4 py-1 align-center"
+            >
+              <div
+                class="flex pt-2"
+              >
+                <div
+                  class="card-heading body-2 grey--text font-weight-bold"
+                >
+                  
+      YOUR PROFILE
+    
+                </div>
+              </div>
+               
+              <div
+                class="spacer"
+              />
+                
+              <a
+                class="v-btn v-btn--icon theme--light"
+                href="admin/users/1/edit"
+              >
+                <div
+                  class="v-btn__content"
+                >
+                  <i
+                    aria-hidden="true"
+                    class="v-icon grey--text fa fa fa fa-cog theme--light"
+                    style="font-size: 16px;"
+                  />
+                </div>
+              </a>
+              <div
+                class="v-menu"
+              >
+                <div
+                  class="v-menu__content theme--light fresh-tipmenu secondary"
+                  style="max-height: auto; min-width: 0px; max-width: 300px; top: 12px; left: 12px; transform-origin: top left; z-index: 0; display: none;"
+                >
+                   
+                  <span
+                    class="font-weight-bold text-uppercase small-caption white--text text-no-wrap"
+                  >
+                    
+      Edit Your Profile
+    
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+           
+          <div
+            class="flex xs12 sm6 md12"
+          >
+            <div
+              class="v-responsive v-image"
+              style="max-height: 320px;"
+            >
+              <div
+                class="v-image__image v-image__image--preload v-image__image--contain"
+                mode="in-out"
+                name="fade-transition"
+                style="background-position: center center;"
+              />
+              <div
+                class="v-responsive__content"
+              />
+            </div>
+          </div>
+           
+          <div
+            class="flex xs12 sm6 md12"
+          >
+            <div
+              class="flex xs12 sm12 md12"
+            >
+              <div
+                class="v-card__text"
+              >
+                <div
+                  class="layout pt-0 pl-1 mt-0 justify-left"
+                >
+                  <div
+                    class="subheading font-weight-bold secondary--text mb-2"
+                  >
+                    
+              Demo Admin
+            
+                  </div>
+                </div>
+                 
+                <div
+                  class="layout pt-0 ma-0 justify-left"
+                >
+                  <span
+                    class="v-chip ma-0 font-weight-bold v-chip--small theme--dark secondary"
+                    depressed=""
+                    tabindex="0"
+                  >
+                    <span
+                      class="v-chip__content"
+                    >
+                      
+              Platform Admin
+            
+                    </span>
+                  </span>
+                </div>
+                 
+                <div
+                  class="flex my-1 column"
+                />
+                 
+                <div
+                  class="layout pt-2 pl-1 mt-0 justify-left"
+                >
+                  <div
+                    class="profile-position greyish-brown--text"
+                  >
+                    
+              No Title @ Laravel
+            
+                  </div>
+                </div>
+              </div>
+            </div>
+             
+            <div
+              class="flex hidden-sm-only xs12"
+            >
+              <hr
+                class="v-divider theme--light"
+              />
+            </div>
+             
+            <div
+              class="flex xs12 sm12 md12"
+            >
+              <div
+                class="v-list fresh-profile-card__contact-list theme--light"
+                role="list"
+              >
+                <div
+                  class="fresh-profile-card__contact-list-item"
+                  role="listitem"
+                >
+                  <div
+                    class="v-list__tile v-list__tile--avatar theme--light"
+                  >
+                    <div
+                      class="v-list__tile__avatar fresh-profile-card__contact-list-item"
+                    >
+                      <div
+                        class="v-avatar"
+                        style="height: 40px; width: 40px;"
+                      >
+                        <div
+                          class="v-avatar secondary"
+                          style="height: 30px; width: 30px;"
+                        >
+                          <i
+                            aria-hidden="true"
+                            class="v-icon fa fa fa fa-envelope theme--dark"
+                            style="font-size: 16px;"
+                          />
+                        </div>
+                      </div>
+                    </div>
+                     
+                    <div
+                      class="v-list__tile__content"
+                    >
+                      <div
+                        class="v-list__tile__title body-2"
+                      >
+                        
+                demoAdmin@example.com
+              
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                 
+                <div
+                  class="fresh-profile-card__contact-list-item"
+                  role="listitem"
+                >
+                  <div
+                    class="v-list__tile v-list__tile--avatar theme--light"
+                  >
+                    <div
+                      class="v-list__tile__avatar fresh-profile-card__contact-list-item"
+                    >
+                      <div
+                        class="v-avatar"
+                        style="height: 40px; width: 40px;"
+                      >
+                        <div
+                          class="v-avatar secondary"
+                          style="height: 30px; width: 30px;"
+                        >
+                          <i
+                            aria-hidden="true"
+                            class="v-icon fa fa fa fa-phone theme--dark"
+                            style="font-size: 16px;"
+                          />
+                        </div>
+                      </div>
+                    </div>
+                     
+                    <div
+                      class="v-list__tile__content"
+                    >
+                      <div
+                        class="v-list__tile__title body-2"
+                      >
+                        
+                123-456-7890
+              
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                 
+                <div
+                  class="fresh-profile-card__contact-list-item"
+                  role="listitem"
+                >
+                  <div
+                    class="v-list__tile v-list__tile--avatar theme--light"
+                  >
+                    <div
+                      class="v-list__tile__avatar fresh-profile-card__contact-list-item"
+                    >
+                      <div
+                        class="v-avatar"
+                        style="height: 40px; width: 40px;"
+                      >
+                        <div
+                          class="v-avatar secondary"
+                          style="height: 30px; width: 30px;"
+                        >
+                          <i
+                            aria-hidden="true"
+                            class="v-icon fa fa fa fa-mobile-alt theme--dark"
+                            style="font-size: 16px;"
+                          />
+                        </div>
+                      </div>
+                    </div>
+                     
+                    <div
+                      class="v-list__tile__content"
+                    >
+                      <div
+                        class="body-2"
+                      >
+                        
+                321-123-1234
+              
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+     
+    <div
+      class="flex xs12 sm12 md8 lg9 xl9 pl-3"
+    >
+      <div
+        class="layout row wrap"
+      >
+        <div
+          class="flex xs12 mb-4 px-0"
+        >
+          <!---->
+        </div>
+         
+        <div
+          class="flex xs12 mb-4 pa-0"
+        >
+          <!---->
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

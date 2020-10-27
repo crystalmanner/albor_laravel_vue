@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`User List Contact Cell component Visuals basic 1`] = `
+<div>
+  
+  Demo Admin
+  
+  <br />
+   
+  <small>
+    demoAdmin@example.com
+  </small>
+</div>
+`;
+
+exports[`User List Contact Cell component Visuals deafult 1`] = `
+<div>
+  
+   
+  
+  <br />
+   
+  <small>
+    
+  </small>
+</div>
+`;

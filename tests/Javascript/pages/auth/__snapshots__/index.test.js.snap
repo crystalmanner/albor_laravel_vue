@@ -1,0 +1,149 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Auth Page Visuals hide register link and show title, logo and bg 1`] = `
+<v-content-stub
+  class="background-image"
+  style="background-image: url(arbor-background.png);"
+  tag="main"
+>
+  <v-container-stub
+    fill-height=""
+    fluid=""
+    tag="div"
+  >
+    <v-layout-stub
+      align-center=""
+      justify-center=""
+      tag="div"
+    >
+      <v-flex-stub
+        md4=""
+        sm8=""
+        tag="div"
+        xs12=""
+      >
+        <v-form-stub>
+          <v-card-stub
+            class="elevation-12 rounded-card"
+            tag="div"
+          >
+            <v-toolbar-stub
+              color="transparent"
+              flat="true"
+              scrollthreshold="300"
+            >
+              <v-img-stub
+                contain="true"
+                height="64"
+                position="center center"
+                src="arbor-logo.png"
+                transition="fade-transition"
+              />
+            </v-toolbar-stub>
+             
+            <v-card-title-stub
+              class="justify-center"
+              primarytitle="true"
+            >
+              <div>
+                <h3
+                  class="headline mb-0"
+                  style="justify-content: center;"
+                >
+                  
+                  Log in to Arbor Title
+                
+                </h3>
+              </div>
+            </v-card-title-stub>
+             
+            <v-card-text-stub>
+              <v-text-field-stub
+                name="login"
+                placeholder="Login"
+                prepend-icon="person"
+                type="text"
+                value=""
+              />
+               
+              <v-text-field-stub
+                id="password"
+                name="password"
+                placeholder="Password"
+                prepend-icon="lock"
+                type="password"
+                value=""
+              />
+            </v-card-text-stub>
+             
+            <div>
+              <v-card-actions-stub>
+                <v-btn-stub
+                  activeclass="v-btn--active"
+                  color="secondary"
+                  flat="true"
+                  small="true"
+                  tag="button"
+                  type="button"
+                >
+                  
+                  Forgot password?
+                
+                </v-btn-stub>
+                 
+                <v-spacer-stub />
+                 
+                <v-btn-stub
+                  activeclass="v-btn--active"
+                  color="primary"
+                  tag="button"
+                  type="submit"
+                >
+                  
+                  Login
+                
+                </v-btn-stub>
+              </v-card-actions-stub>
+               
+              <!---->
+            </div>
+             
+            <!---->
+             
+            <v-snackbar-stub
+              color="error"
+              timeout="6000"
+              top="true"
+            >
+              
+              
+              
+              <v-btn-stub
+                activeclass="v-btn--active"
+                dark="true"
+                flat="true"
+                tag="button"
+                type="button"
+              >
+                
+                Close
+              
+              </v-btn-stub>
+            </v-snackbar-stub>
+          </v-card-stub>
+        </v-form-stub>
+      </v-flex-stub>
+    </v-layout-stub>
+  </v-container-stub>
+   
+  <v-dialog-stub
+    contentclass=""
+    maxwidth="500"
+    origin="center center"
+    transition="dialog-transition"
+    width="auto"
+  >
+    <forgot-password-stub />
+  </v-dialog-stub>
+</v-content-stub>
+`;
